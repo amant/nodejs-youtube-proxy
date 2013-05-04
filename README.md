@@ -1,4 +1,10 @@
 nodejs-youtube-proxy
 ====================
 
-youtube proxy script using nodejs
+A very simple and basic Youtube proxy server using nodejs.
+
+To run: 
+node proxy.js
+
+
+and then in browser http://localhost:8000
